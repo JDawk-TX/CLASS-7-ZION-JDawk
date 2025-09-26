@@ -24,22 +24,22 @@ echo "
 <!doctype html>
 <html lang=\"en\" class=\"h-100\">
 <head>
-<title>Details for EC2 instance</title>
+<title>Class7:Zion EC2 instance</title>
 </head>
-<body>
 
+<body>
 <div>
 <h1>AWS Class7: Zion</h1>
-  <h2>Week 1 - 3</h2>
+<h2>Week 1 - 3</h2>
 <h2>"I, Jimmy D, Thank Theo And Jarard, For Teaching Me About Ec2s In Aws. One Step Closer To Escaping Keisha!
 "With This Class, I Will Net $150,000 Per Year!"</h2>
-</div>
+  </div>
 
 # insert an image or GIF
 <br>
-  <h2>Mrs.</h2>
+<h2>Mrs.</h2>
 <img src="https://i.makeagif.com/media/12-15-2015/PB2xdd.gif" alt="La Negra Bonita">
-  <h2>Happy Place!</h2>
+<h2>Happy Place!</h2>
 <img src="https://cdn.sanity.io/images/nxpteyfv/goguides/5e75ccd83426a558e5a86a2609a9e09295a29ac3-1600x1066.jpg" alt="DR">
 </br>
 
