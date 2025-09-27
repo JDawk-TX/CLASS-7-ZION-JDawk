@@ -76,3 +76,6 @@ git commit -m "<First Commit>"
 git branch -M main
 git remote add origin https://github.com/JDawk-TX/9.23.25_class7_JDawk
 git push -u origin main
+
+Create SSH keys for LOGIN
+ssh-keygen -t ed25519 -C "jddawkins3@protonmail.com"
